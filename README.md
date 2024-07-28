@@ -30,7 +30,21 @@
 
 ## 🔭 Notable Projects
 
-### Coming Soon!
+### **1. [Unity Game Project: Veicap-Kitchen-Game](https://github.com/Veicap/Veicap-Kitchen-Game)**
+- **Description**: The gameplay involves players preparing the required dishes according to given recipes. Players must devise strategies to execute as many dishes as possible within a specific time frame.
+- **Technologies**: Unity, C#, GitHub (for version control).
+
+### **2. [Unity Engine Project: Veicap-Dungeon-Game](https://github.com/Veicap/Veicap-Dungeon-Game)**
+- **Description**: Dungeon Game is a platformer where players must control their character to collect as many items as possible and reach the goal to win.
+- **Technologies**: Unity, C#, GitHub (for version control).
+
+### **3. [Unity Engine Project: Veicap-Card-Game](https://github.com/Veicap/Veicap-Card-Game)**
+- **Description**: The game uses a shuffle algorithm to randomize the cards each time a new round begins. The player's task is to find two identical cards until all cards are revealed.
+- **Technologies**: Unity, C#, GitHub (for version control).
+
+### **4. [Educational Game: Veicap-Break-Out-Game](https://github.com/Veicap/Veicap-Break-Out-Game)**
+- **Description**: Breakout is game that players control a paddle to bounce a ball and break through layers of bricks. The objective is to clear all the bricks on the screen without letting the ball fall off the bottom of the screen.
+- **Technologies**: Unity, C#, GitHub (for version control).
 
 ## 💼 Experience
 
