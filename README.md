@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Veicap-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Veicap)
 [![GitLab](https://img.shields.io/badge/GitLab-Veicap-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Veicap)
-[![Facebook](https://img.shields.io/badge/Facebook-NguyenVanTriGDev-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/PhamXuanHungGDev/)
+[![Facebook](https://img.shields.io/badge/Facebook-PhamXuanHungGDev-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/PhamXuanHungGDev/)
 
 👋 Hello! I’m **Pham Xuan Hung**, known as **Veicap** on GitHub. I’m passionate about game development and currently working with Unity. My goal is to become a professional game developer.
 
