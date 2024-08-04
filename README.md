@@ -42,7 +42,7 @@
 - **Description**: The game uses a shuffle algorithm to randomize the cards each time a new round begins. The player's task is to find two identical cards until all cards are revealed.
 - **Technologies**: Unity, C#, GitHub (for version control).
 
-### **4. [Educational Game: Veicap-Break-Out-Game](https://github.com/Veicap/Veicap-Break-Out-Game)**
+### **4. [Unity Engine Project: Veicap-Break-Out-Game](https://github.com/Veicap/Veicap-Break-Out-Game)**
 - **Description**: Breakout is game that players control a paddle to bounce a ball and break through layers of bricks. The objective is to clear all the bricks on the screen without letting the ball fall off the bottom of the screen.
 - **Technologies**: Unity, C#, GitHub (for version control).
 
